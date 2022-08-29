@@ -2,8 +2,8 @@
 
 ## Programming 1 Semester 1 Projects:
 
-### 00P Calculator
-Graphic based 00P Calculator.
+### OOP Calculator
+Graphic based OOP Calculator.
 Source Code Exported App
 
 ## Programming 1 Semester 2 Projects:
