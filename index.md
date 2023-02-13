@@ -1,4 +1,4 @@
-# Welcom to Juntian Deng's Programming Portfolio
+# Welcome to Juntian Deng's Programming Portfolio
 
 ## Programming 1 Semester 1 Projects:
 
