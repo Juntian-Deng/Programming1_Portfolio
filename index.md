@@ -20,5 +20,9 @@ Graphic Based Screensaver
 [Source Code](https://github.com/Juntian-Deng/Programming1_Portfolio/tree/gh-pages/src/screensaver)
 
 ## Programming 2 Semester 2 Projects:
+### Pig Latin Converter
+C++ based program that translates words into Pig Latin
+![Running Pig Latin Converter](https://github.com/Juntian-Deng/Programming1_Portfolio/blob/gh-pages/images/pig%20latin%20converter.png)
 
-### ShapeTester
+[Source Code](https://github.com/Juntian-Deng/Programming1_Portfolio/blob/gh-pages/src/pig%20latin%20converter/main.cpp)
+
