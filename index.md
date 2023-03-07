@@ -26,3 +26,8 @@ C++ based program that translates words into Pig Latin
 
 [Source Code](https://github.com/Juntian-Deng/Programming1_Portfolio/blob/gh-pages/src/pig%20latin%20converter/main.cpp)
 
+### Shape Tester
+C++ based program that uses classes to find area and volume of shapes
+![Running Shape Tester](https://github.com/Juntian-Deng/Programming1_Portfolio/blob/gh-pages/images/Screenshot%202023-03-07%204.50.36%20PM.png)
+
+[Source Code](https://github.com/Juntian-Deng/Programming1_Portfolio/tree/gh-pages/src/shape%20tester)
