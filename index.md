@@ -2,7 +2,7 @@
 [Contact Info](mailto:juntdeng9710@granitesd.org)
 
 ## Programming Certifications:
-1st Semester Certifications, Java, C++, Python, C# Language Certifications.
+Programming 1: 820, Java, C++, Python, C# Language Certifications.
 
 ## Group Projects:
 [Tetris](https://github.com/Juntian-Deng/C-Group-Projects/tree/main/Tetris)
