@@ -1,5 +1,5 @@
 # Welcome to Juntian Deng's Programming Portfolio
-[Contact Info: juntdeng9710@granitesd.org]
+Contact Info: [juntdeng9710@granitesd.org]
 
 ## Programming Certifications:
 1st Semester Certifications, Java, C++, Python, C# Language Certifications.
