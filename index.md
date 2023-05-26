@@ -5,7 +5,7 @@
 1st Semester Certifications, Java, C++, Python, C# Language Certifications.
 
 ## Group Projects:
-![Tetris](https://github.com/Juntian-Deng/C-Group-Projects/tree/main/Tetris)
+[Tetris](https://github.com/Juntian-Deng/C-Group-Projects/tree/main/Tetris)
 
 ## Programming 1 Semester 1 Projects:
 
