@@ -1,4 +1,6 @@
 # Welcome to Juntian Deng's Programming Portfolio
+[Contact Info:](juntdeng9710@granitesd.org)
+
 
 ## Programming 1 Semester 1 Projects:
 
